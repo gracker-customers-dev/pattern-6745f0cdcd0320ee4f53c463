@@ -1,0 +1,59 @@
+projectName: Top 10 Vulnerability Management Solutions for Business in US
+jsonFilePath: ./input.json
+baseUrl: https://gecko.security
+portalHeading: The AI Hacker for Your Codebase
+portalDescription: >-
+  Gecko is an AI-powered security engineer that finds and fixes vulnerabilities
+  in your codebase.
+portalTitle: AI-Powered Offensive Security
+searchPlaceholder: Search vulnerabilities...
+useAlphabetsCategory: true
+homeLink: https://gecko.security/
+logoLink: https://gecko.security/
+ctaText: Get Started
+aboutLink: https://gecko.security/about
+productsLink: https://gecko.security/products
+logoImgUrl: https://gecko.security/logo.png
+ctaLink: https://gecko.security/get-started
+copyrightText: © Gecko Security Inc. All rights reserved.
+faviconUrl: https://gecko.security/favicon.ico
+googleTagManagerId: GTM-XXXXXX
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Discord
+    url: https://discord.gg/8MMHngbEaM
+  - platform: Twitter
+    url: https://x.com/gecko_sec
+  - platform: GitHub
+    url: https://github.com/Gecko-Security
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/geckosec
+theme:
+  primaryColor: '#0a74da'
+  secondaryColor: '#f2f2f2'
+  backgroundColor: '#ffffff'
+  textColor: '#333333'
+  accentColor: '#ff5722'
+fonts:
+  - family: Roboto
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Open Sans
+    weights:
+      - 500
+      - 600
+      - 700
